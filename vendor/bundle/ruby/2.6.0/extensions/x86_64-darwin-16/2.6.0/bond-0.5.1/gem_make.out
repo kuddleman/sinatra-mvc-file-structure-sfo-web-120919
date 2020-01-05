@@ -1,0 +1,16 @@
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-mvc-file-structure-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/Donny/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/Donny/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200104-38758-1et7uga.rb extconf.rb
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-mvc-file-structure-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-mvc-file-structure-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-mvc-file-structure-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
